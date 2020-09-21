@@ -10,10 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca18ffdf-d56a-4b55-b822-8731ffc1874e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/www" beforeDir="false" afterPath="$PROJECT_DIR$/bin/www" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +42,12 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.5.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.11.1" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -64,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600724271212</updated>
-      <workItem from="1600724272667" duration="884000" />
+      <workItem from="1600724272667" duration="1731000" />
     </task>
     <task id="LOCAL-00001" summary="Created a web page">
       <created>1600724780070</created>
@@ -73,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600724780070</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ready to connect to heroku, about to test">
+      <created>1600725191502</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600725191502</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,13 +91,30 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created a web page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created a web page" />
+    <MESSAGE value="ready to connect to heroku, about to test" />
+    <option name="LAST_COMMIT_MESSAGE" value="ready to connect to heroku, about to test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-2142" y="-491" key="CommitChangelistDialog2" timestamp="1600724779717">
+    <state x="-2142" y="-491" key="CommitChangelistDialog2" timestamp="1600725191196">
       <screen x="-3840" y="-1008" width="3840" height="2137" />
     </state>
-    <state x="-2142" y="-491" key="CommitChangelistDialog2/0.23.1440.877/-3840.-1008.3840.2137/-6400.-512.2560.1417@-3840.-1008.3840.2137" timestamp="1600724779717" />
+    <state x="-2142" y="-491" key="CommitChangelistDialog2/0.23.1440.877/-3840.-1008.3840.2137/-6400.-512.2560.1417@-3840.-1008.3840.2137" timestamp="1600725191196" />
+    <state width="1692" height="345" key="GridCell.Tab.0.bottom" timestamp="1600729402263">
+      <screen x="-3840" y="-1008" width="3840" height="2137" />
+    </state>
+    <state width="1692" height="345" key="GridCell.Tab.0.bottom/0.23.1440.877/-3840.-1008.3840.2137/-6400.-512.2560.1417@-3840.-1008.3840.2137" timestamp="1600729402263" />
+    <state width="1692" height="345" key="GridCell.Tab.0.center" timestamp="1600729402262">
+      <screen x="-3840" y="-1008" width="3840" height="2137" />
+    </state>
+    <state width="1692" height="345" key="GridCell.Tab.0.center/0.23.1440.877/-3840.-1008.3840.2137/-6400.-512.2560.1417@-3840.-1008.3840.2137" timestamp="1600729402262" />
+    <state width="1692" height="345" key="GridCell.Tab.0.left" timestamp="1600729402261">
+      <screen x="-3840" y="-1008" width="3840" height="2137" />
+    </state>
+    <state width="1692" height="345" key="GridCell.Tab.0.left/0.23.1440.877/-3840.-1008.3840.2137/-6400.-512.2560.1417@-3840.-1008.3840.2137" timestamp="1600729402261" />
+    <state width="1692" height="345" key="GridCell.Tab.0.right" timestamp="1600729402262">
+      <screen x="-3840" y="-1008" width="3840" height="2137" />
+    </state>
+    <state width="1692" height="345" key="GridCell.Tab.0.right/0.23.1440.877/-3840.-1008.3840.2137/-6400.-512.2560.1417@-3840.-1008.3840.2137" timestamp="1600729402262" />
     <state x="-2193" y="-452" key="SettingsEditor" timestamp="1600724473378">
       <screen x="-3840" y="-1008" width="3840" height="2137" />
     </state>
